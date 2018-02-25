@@ -3,12 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/E-teach.iml" filepath="$PROJECT_DIR$/E-teach.iml" />
-      <module fileurl="file://C:\Users\40178\Documents\GitHub\E-teach\E-teach.iml" filepath="C:\Users\40178\Documents\GitHub\E-teach\E-teach.iml" />
       <module fileurl="file://C:\Users\40178\Desktop\E-teach-master\E-teach.iml" filepath="C:\Users\40178\Desktop\E-teach-master\E-teach.iml" />
       <module fileurl="file://C:\Users\40178\Documents\GitHub\E-teach\E-teach-master.iml" filepath="C:\Users\40178\Documents\GitHub\E-teach\E-teach-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\40178\Desktop\E-teach-master\app\app.iml" filepath="C:\Users\40178\Desktop\E-teach-master\app\app.iml" />
-      <module fileurl="file://C:\Users\40178\Documents\GitHub\E-teach\app\app.iml" filepath="C:\Users\40178\Documents\GitHub\E-teach\app\app.iml" />
     </modules>
   </component>
 </project>
